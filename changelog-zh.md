@@ -1,4 +1,4 @@
-## 1.0.1.XXXX
+## 1.0.1.*
 
 - 3 New Screens Added
 
@@ -8,6 +8,6 @@
 
 - Minor Bug Fixes
 
-## 1.0.0
+## 1.0.0.*
 
 - Initial(Early) Release
