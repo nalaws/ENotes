@@ -1,5 +1,14 @@
 # ENotes
+#### [中文版文档](https://github.com/nalaws/ENotes/blob/master/README.md)   |   [English Docs](https://github.com/nalaws/ENotes/blob/master/README-EN.md)
 电子便签
+
+## 预览
+
+部分页面效果如下：
+
+| ![](./help/images/notepad.png)    |  ![](./help/images/notepad_draw.png)    | ![](./help/images/notepad_enum.png)   |
+| :--------------------------------: | :---------------------------------: | :-------------------------------: | 
+| ![](./help/images/calendar_month.png)    |  ![](./help/images/calendar_schedule.png)    | ![](./help/images/discover.png)   |
 
 ## 主要功能
 
