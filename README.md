@@ -1,7 +1,7 @@
 # ENotes
 #### [中文版文档](https://github.com/nalaws/ENotes/blob/master/README.md)   |   [English Docs](https://github.com/nalaws/ENotes/blob/master/README-EN.md)
 
-ENotes是一个简单安全有趣的本地便签，能够很好的帮助用户日常生活和工作。
+ENotes是一个简单安全有趣的本地便签，能够很好的帮助用规划户日常生活和提高工作效率。
 
 ## 预览
 
