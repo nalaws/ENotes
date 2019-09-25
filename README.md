@@ -31,7 +31,8 @@ Android版安装包：[点击下载](https://github.com/ethereum/mist/releases/d
 
 Android版安装包：[点击下载](https://github.com/nalaws/ENotes/tree/master/bin/v1.0.0/supwallet.apk)
 
-Android版安装包：[点击下载](https://github.com/nalaws/ENotes/blob/master/bin/v1.0.0/supwallet.apk)
+Android版安装包：[点击下载](https://raw.github.com/nalaws/ENotes/master/bin/v1.0.0/supwallet.apk)
+
 
 iOS暂时不支持
 
