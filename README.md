@@ -18,6 +18,7 @@
 ## 体验：
 
 Android版安装包：[点击下载](https://raw.githubusercontent.com/nalaws/ENotes/master/bin/v1.0.0/changelog-zh.md)
+
 iOS暂时不支持
 
 ## 赞赏
