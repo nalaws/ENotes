@@ -27,12 +27,7 @@ ENotes是一款简单安全有趣的本地便签APP，能够很好的帮助用�
 
 ## 体验：
 
-Android版安装包：[点击下载](https://github.com/ethereum/mist/releases/download/v0.11.1/Ethereum-Wallet-installer-0-11-1.exe)
-
-Android版安装包：[点击下载](https://github.com/nalaws/ENotes/tree/master/bin/v1.0.0/supwallet.apk)
-
 Android版安装包：[点击下载](https://raw.github.com/nalaws/ENotes/master/bin/v1.0.0/supwallet.apk)
-
 
 iOS暂时不支持
 
